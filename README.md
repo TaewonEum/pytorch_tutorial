@@ -19,5 +19,14 @@ Tensor tutorial
 
 -Tensor concat, stack
 
-Dataset/DataLoader
+Dataset/DataLoader Tutorial
 =========
+
+-library import
+
+-Dataset저장
+
+-Data EDA
+
+-Data Loader
+
