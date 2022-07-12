@@ -24,7 +24,7 @@ Dataset/DataLoader Tutorial
 
 -library import
 
--Dataset저장
+-Dataset저장(fashionMNIST)
 
 -Data EDA
 
