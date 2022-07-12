@@ -1,6 +1,6 @@
 # pytorch_tutorial
 
-1. Tensor
+1.Tensor
 
 2.Dataset/DataLoader
 
