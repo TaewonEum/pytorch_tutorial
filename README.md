@@ -1,9 +1,5 @@
 # pytorch_tutorial
 
-pytorch tutorial
-===============
-
-
 1. Tensor
 
 2.Dataset/DataLoader
