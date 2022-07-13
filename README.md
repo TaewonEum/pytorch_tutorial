@@ -32,7 +32,7 @@ Dataset/DataLoader Tutorial
 
 -Custom Dataset 생성 
 
-Built Model Tutorial
+Built Model Tutorial & Save model & Load model
 =========
 
 
