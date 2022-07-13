@@ -1,4 +1,4 @@
-# pytorch_tutorial~07.15예정
+# pytorch_tutorial
 
 1.Tensor tutorial
 
