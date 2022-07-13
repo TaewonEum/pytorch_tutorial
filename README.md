@@ -35,5 +35,11 @@ Dataset/DataLoader Tutorial
 Built Model Tutorial & Save model & Load model
 =========
 
+-Model생성
 
+-Train Model
+
+-Test Model
+
+-Save Model
 
